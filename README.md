@@ -1,4 +1,5 @@
 Step to setup alembic:-
+
     1.>pip install alembic
     2.>alembic init alembic
     3.Open 'alembic.ini' file update sqlalchemy.url by your database
